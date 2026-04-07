@@ -1,6 +1,6 @@
 # hey, i'm yaroslav
 
-**`bleeding`** — 10th grade student, building things that make life easier
+**`bleedinh`** — 10th grade student, building things that make life easier
 
 i believe if something can be done by hand, it can be automated. that's what drives me — practical tools, AI, and clean solutions to real problems.
 
