@@ -1,6 +1,6 @@
 # hey, i'm yaroslav
 
-`bleedinh` — building tools that replace repetitive work.
+building tools that replace repetitive work.
 
 if something can be done by hand, it can be automated. that's what drives everything here: practical utilities, AI that solves actual problems, clean solutions over clever ones.
 
