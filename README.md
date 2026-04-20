@@ -50,7 +50,6 @@ if something can be done by hand, it can be automated. that's what drives everyt
 - AI agents that do useful work end-to-end, not just chat
 - taking repetitive manual flows and killing them with a script
 - building tools i use myself every day
-- autonomous youtube channel where claude plans, writes, and produces physics videos end-to-end
 
 ---
 
