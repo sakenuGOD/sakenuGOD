@@ -56,3 +56,5 @@ if something can be done by hand, it can be automated. that's what drives everyt
 ### contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@narcolepsyy-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/narcolepsyy)
+&nbsp;
+![Discord](https://img.shields.io/badge/Discord-sakenu123-5865F2?style=flat&logo=discord&logoColor=white)
